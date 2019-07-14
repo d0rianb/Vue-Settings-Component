@@ -1,0 +1,24 @@
+{
+	"settings": [
+		{
+			"name": "Username",
+			"value": "Default",
+			"type": "text"
+        },
+		{
+			"name": "Password",
+			"value": "Default",
+			"type": "password"
+        },
+		{
+			"name": "TMS Address",
+			"value": "10.251.65.29",
+			"type": "string"
+        },
+		{
+			"name": "Notification Delay",
+			"value": 2.1,
+			"type": "number"
+        }
+    ]
+}
